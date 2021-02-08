@@ -1,11 +1,15 @@
-visual/ShowChess.java
- visual.ShowChess
 framework/Position.java
  framework.Position
+standard/StandardGame.java
+ standard.StandardGame
 framework/Pieces.java
  framework.Pieces
+visual/ChessFactory.java
+ visual.ChessFactory
 framework/Game.java
  framework.Game
+visual/ShowChess.java
+ visual.ShowChess
 framework/GameObserver.java
  framework.GameObserver
 framework/Player.java
