@@ -1,0 +1,12 @@
+visual/ShowChess.java
+ visual.ShowChess
+framework/Position.java
+ framework.Position
+framework/Pieces.java
+ framework.Pieces
+framework/Game.java
+ framework.Game
+framework/GameObserver.java
+ framework.GameObserver
+framework/Player.java
+ framework.Player
