@@ -5,6 +5,8 @@ import minidraw.framework.Drawing;
 import minidraw.framework.DrawingEditor;
 import minidraw.framework.DrawingView;
 import minidraw.framework.Factory;
+import view.BoardView;
+import view.ChessDrawing;
 
 import javax.swing.*;
 
@@ -18,12 +20,13 @@ public class ChessFactory implements Factory {
 
     @Override
     public DrawingView createDrawingView(DrawingEditor editor) {
-        return null;
+        DrawingView view = new BoardView(editor, game);
+        return view;
     }
 
     @Override
     public Drawing createDrawing(DrawingEditor editor) {
-        return null;
+        return new ChessDrawing( editor, game );
     }
 
     @Override

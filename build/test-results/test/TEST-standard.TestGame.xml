@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="standard.TestGame" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-08T17:54:12" hostname="DESKTOP-1B49RUE" time="0.01">
+<testsuite name="standard.TestGame" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-09T17:33:36" hostname="DESKTOP-1B49RUE" time="0.029">
   <properties/>
-  <testcase name="shouldNotBeWhitePawnAtA3()" classname="standard.TestGame" time="0.007"/>
+  <testcase name="shouldNotBeWhitePawnAtA3()" classname="standard.TestGame" time="0.022"/>
   <testcase name="pawnsCanOnlyMoveOneSquare()" classname="standard.TestGame" time="0.001"/>
-  <testcase name="whiteShouldWinWhenReachingEndRow()" classname="standard.TestGame" time="0.0"/>
-  <testcase name="shouldBeWhitePawnAtA2()" classname="standard.TestGame" time="0.0"/>
+  <testcase name="whiteShouldWinWhenReachingEndRow()" classname="standard.TestGame" time="0.001"/>
+  <testcase name="shouldBeWhitePawnAtA2()" classname="standard.TestGame" time="0.001"/>
   <testcase name="pawnsCanOnlyMoveStraight()" classname="standard.TestGame" time="0.001"/>
   <testcase name="shouldMoveWhitePawnFroma2Toa3()" classname="standard.TestGame" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
