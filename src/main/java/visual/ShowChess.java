@@ -13,7 +13,7 @@ public class ShowChess {
                 new MiniDrawApplication( "Move any unit using the mouse",
                         new ChessFactory(game));
         editor.open();
-        editor.showStatus("Try to play SemiCiv");
+        editor.showStatus("Try to play Chess");
 
         //editor.setTool( new CompositionTool(editor, game));
     }
